@@ -5,6 +5,5 @@
 - ⚡ Fun fact: I want to create an Programm wich destroy any Hack on an Hacked advice, just with putting an USB-Stick with the Programm on it into the device
 
 <!---
-kallioderso/kallioderso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I already maked some little Programming Projects like an Game for my School (Project) and an HTML programm for my school, but also i maked some own Projects like little Games or some Bots and something like that
 --->
